@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1685101646,
+	"version": 1685103764,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,11 @@
 		"images/sword-sheet1.png",
 		"images/sting-sheet0.png",
 		"images/gempath-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/touchdirleft-sheet0.png",
+		"images/touchdirright-sheet0.png",
+		"images/touchdirtop-sheet0.png",
+		"images/touchdirbot-sheet0.png",
 		"media/enemy-hitten.m4a",
 		"media/enemy-hitten.ogg",
 		"media/level-ip.m4a",
