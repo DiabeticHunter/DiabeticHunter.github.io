@@ -1,0 +1,37 @@
+
+1. **Gameplay Bugs:**
+   - [x] Fix character getting stuck in terrain or objects.
+   - [x] Adjust collision detection to prevent characters from passing through obstacles.
+   - [x] Ensure enemies behave consistently and follow the player as intended.
+   - [x] Rectify any issues with incorrect damage calculations or health-related mechanics.
+
+2. **UI/UX Bugs:**
+   - [x] Place missing or incorrectly positioned UI elements in their proper locations (e.g., health bar, indicators).
+   - [x] Implement responsive UI scaling to accommodate different screen resolutions.
+   - [x] Address any text overflow or cut-off issues in UI elements.
+
+3. **Graphics/Visual Bugs:**
+   - [x] Resolve texture glitches or artifacts in the game's visuals.
+   - [x] Adjust lighting and shading to ensure a consistent and visually appealing experience.
+   - [x] Ensure animations synchronize correctly, preventing any anomalies (e.g., animations not playing correctly).
+
+4. **Audio Bugs:**
+   - [ ] Ensure all sound effects and music play when triggered.
+   - [ ] Balance volume levels across different elements to provide a seamless audio experience.
+
+5. **Input Bugs:**
+   - [x] Debug player input handling to ensure that button presses are registered correctly.
+   - [x] Check and rectify any issues with controller, keyboard, or mouse configurations causing gameplay problems.
+
+6. **Level Design Bugs:**
+   - [x] Address any areas where the player can become stuck or fall out of the map.
+   - [x] Verify that interactive objects (e.g., moving platforms, doors) function as expected.
+   - [x] Resolve any issues related to enemy or collectible spawning.
+
+7. **Game Progression Bugs:**
+   - [x] Verify that quests and objectives update correctly, ensuring that progression is smooth.
+   - [x] Double-check leveling and experience gain mechanics for consistency.
+
+8. **Performance Optimization:**
+   - [x] Identify and fix frame rate drops or stuttering issues during gameplay.
+
