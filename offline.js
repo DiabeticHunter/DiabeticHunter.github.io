@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1690285014,
+	"version": 1694762871,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,7 @@
 		"images/hpbar-sheet0.png",
 		"images/maxhpbar-sheet0.png",
 		"images/playerhitbox-sheet0.png",
+		"images/maxenemyhpbar-sheet0.png",
 		"images/gem-sheet0.png",
 		"images/gem-sheet1.png",
 		"images/flail-sheet0.png",
@@ -44,6 +45,9 @@
 		"images/gempath-sheet0.png",
 		"images/joystick-sheet0.png",
 		"images/joystick_center-sheet0.png",
+		"images/tilemap.png",
+		"images/hpbarv2.png",
+		"images/pausebutton-sheet0.png",
 		"media/enemy-hitten.m4a",
 		"media/enemy-hitten.ogg",
 		"media/level-ip.m4a",
