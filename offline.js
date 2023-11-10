@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1694762871,
+	"version": 1699607784,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,10 @@
 		"images/tilemap.png",
 		"images/hpbarv2.png",
 		"images/pausebutton-sheet0.png",
+		"images/gamemenu1-sheet0.png",
+		"images/gamemenu2-sheet0.png",
+		"images/gamemenu3-sheet0.png",
+		"images/sprite4-sheet0.png",
 		"media/enemy-hitten.m4a",
 		"media/enemy-hitten.ogg",
 		"media/level-ip.m4a",
