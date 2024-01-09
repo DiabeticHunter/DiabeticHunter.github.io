@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1704840725,
+	"version": 1704844312,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -59,7 +59,7 @@
 		"images/pause_settings-sheet0.png",
 		"images/bg_pause-sheet0.png",
 		"images/gamemenu_score-sheet0.png",
-		"images/sprite6-sheet0.png",
+		"images/anim_ach-sheet0.png",
 		"images/bg_achievement_unlocked-sheet0.png",
 		"images/gamemenu_start-sheet0.png",
 		"images/gamemenu_succes-sheet0.png",

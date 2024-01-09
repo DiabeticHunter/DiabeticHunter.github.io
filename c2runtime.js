@@ -31622,8 +31622,12 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Turret.prototype.cnds.HasTarget,
 	cr.plugins_.Sprite.prototype.cnds.IsMirrored,
 	cr.system_object.prototype.acts.SaveState,
-	cr.system_object.prototype.acts.LoadState,
+	cr.plugins_.Text.prototype.acts.SetPos,
+	cr.plugins_.Sprite.prototype.exps.ImagePointX,
+	cr.plugins_.Sprite.prototype.exps.ImagePointY,
+	cr.plugins_.Text.prototype.acts.SetFontSize,
 	cr.plugins_.Browser.prototype.acts.Close,
+	cr.system_object.prototype.acts.LoadState,
 	cr.system_object.prototype.cnds.OnLayoutEnd,
 	cr.plugins_.Audio.prototype.acts.Stop,
 	cr.plugins_.Browser.prototype.acts.ExecJs
